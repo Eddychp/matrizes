@@ -1,6 +1,6 @@
 package pe.edu.upeu.edchp.ResolucionM.examen;
 
-public class hhh {
+public class examen1 {
 public static void main(String[] args) {
 
         int [][] matriz1 = new int[][] { {41,4,8}, {12,16,20},{4,10,6} };
